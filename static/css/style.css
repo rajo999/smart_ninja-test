@@ -1,0 +1,16 @@
+.col-md-4
+{
+border: solid brown;
+color: purple;
+text-decoration: underline;
+}
+
+.col-md-6
+{
+border: solid blue;
+}
+
+.col-md-3
+{
+border: solid green;
+}
